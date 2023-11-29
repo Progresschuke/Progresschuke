@@ -48,6 +48,7 @@ My work involves crafting, developing, and maintaining mobile applications that 
 <ul>
   <li>Flutter Freameworks</li>
   <li>API Integration | REST APIs</li>
+  <li>State Management</li>
   <li>Testing and Debugging</li>
   <li>UI/UX Design</li>
   <li>Web Development</li>
