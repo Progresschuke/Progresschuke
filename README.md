@@ -13,16 +13,6 @@ My work involves crafting, developing, and maintaining mobile applications that 
 <li>Grade - First Class Honours.</li>
 </ul>
 
-# Skills
-
-<ul>
-  <li>Flutter | Dart</li>
-  <li>REST APIs</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>jQuery</li>
-  <li>R</li>
-</ul>
 
 # Programming Languages
 
@@ -53,27 +43,67 @@ My work involves crafting, developing, and maintaining mobile applications that 
 
 ###
 
+# Skills
+
+<ul>
+  <li>Flutter Freameworks</li>
+  <li>API Integration | REST APIs</li>
+  <li>Testing and Debugging</li>
+  <li>UI/UX Design</li>
+  <li>Web Development</li>
+  <li>Version Control</li>
+  <li>Continuous Integration/Continuous Deployment (CI/CD)</li>
+</ul>
+
+# Experience
+Mobile Application Developer
+Pusheat 
+
 # Social
 
 <div align="left">
   <a href="mailto:progresschuke@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+<div align="left">
   <a href="https://www.linkedin.com/in/progress-chuke/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+<div align="left">
   <a href="https://www.facebook.com/chukeprogress" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+</div>
+<div align="left">
   <a href="https://instagram.com/progresschuke_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
+<div align="left">
   <a href="https://twitter.com/Progress_Chuke" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
 ###
+
+# Github stats
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Progresschuke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>  
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Progresschuke&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=4" height="150" alt="streak graph"  />
+  </div>  
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Progresschuke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+  </div>  
+
+
 
 
 
