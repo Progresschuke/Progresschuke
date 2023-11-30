@@ -46,7 +46,7 @@ My work involves crafting, developing, and maintaining mobile applications that 
 # Skills
 
 <ul>
-  <li>Flutter Freameworks</li>
+  <li>Flutter Frameworks</li>
   <li>API Integration | REST APIs</li>
   <li>State Management</li>
   <li>Testing and Debugging</li>
