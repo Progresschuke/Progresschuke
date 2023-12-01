@@ -59,6 +59,7 @@ My work involves crafting, developing, and maintaining mobile applications that 
 # Experience
 Mobile Application Developer
 Pusheat 
+<img src="![PiushEat](https://github.com/Progresschuke/Progresschuke/assets/121574971/3654a044-e24e-4e12-bd9b-8037c4cf91b3)" height="35" alt="gmail logo"  />
 ![PiushEat](https://github.com/Progresschuke/Progresschuke/assets/121574971/3654a044-e24e-4e12-bd9b-8037c4cf91b3)
 
 # Social
