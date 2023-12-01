@@ -56,11 +56,24 @@ My work involves crafting, developing, and maintaining mobile applications that 
   <li>Continuous Integration/Continuous Deployment (CI/CD)</li>
 </ul>
 
-# Experience
-Mobile Application Developer
-Pusheat 
-<img src="![PiushEat](https://github.com/Progresschuke/Progresschuke/assets/121574971/3654a044-e24e-4e12-bd9b-8037c4cf91b3)" height="35" alt="gmail logo"  />
-![PiushEat](https://github.com/Progresschuke/Progresschuke/assets/121574971/3654a044-e24e-4e12-bd9b-8037c4cf91b3)
+# Worked For
+<img src="https://github.com/Progresschuke/Progresschuke/assets/121574971/3654a044-e24e-4e12-bd9b-8037c4cf91b3" height="50" width="250" hspace="20" />
+<img src="https://github.com/Progresschuke/Progresschuke/assets/121574971/cbcee656-f422-421d-86f7-e993f8359af9" height="50" width="50" hspace="20" />
+
+<!--
+<div style="position: relative; width: 200px; height: 200px;">
+  <img src="https://github.com/Progresschuke/Progresschuke/assets/121574971/3654a044-e24e-4e12-bd9b-8037c4cf91b3" height="50" width="250" />
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.5); color: white; text-align: center;">PushEat</div>
+  
+</div>
+<div style="position: relative; width: 200px; height: 200px;">
+  <img src="https://github.com/Progresschuke/Progresschuke/assets/121574971/cbcee656-f422-421d-86f7-e993f8359af9" height="50" width="50" hspace="20" />
+
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.5); color: white; text-align: center;">Sharefood</div>
+</div>
+-->
+
+
 
 # Social
 
