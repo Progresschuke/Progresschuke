@@ -1,7 +1,7 @@
 # 🌐 Flutter Developer || Mobile App Developer
 
 # About Me
-Hello, I am Progress Chuke, and Iam deeply passionate about the world of mobile application development. My enthusiasm for building, creating, personal development, and continuous growth fuels my mission to construct impactful mobile applications.
+Hello, I am Progress Chuke, and I am deeply passionate about the world of mobile application development. My enthusiasm for building, creating, personal development, and continuous growth fuels my mission to construct impactful mobile applications.
 
 I approach mobile app development with a critical and innovative mindset, always striving to go beyond the ordinary. My goal is to create digital experiences that make an indelible mark on users, which is why I consistently go the extra mile to deliver exceptional results.
 
